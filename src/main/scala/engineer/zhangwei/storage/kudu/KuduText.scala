@@ -1,4 +1,4 @@
-package engineer.zhangwei.spark.kudu
+package engineer.zhangwei.storage.kudu
 
 import java.util.UUID
 

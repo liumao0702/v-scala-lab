@@ -1,4 +1,4 @@
-package engineer.zhangwei.spark.basic
+package engineer.zhangwei.spark.example
 
 import org.apache.spark.{SparkConf, SparkContext}
 

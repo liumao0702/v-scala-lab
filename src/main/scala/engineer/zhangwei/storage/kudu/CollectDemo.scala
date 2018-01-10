@@ -1,4 +1,4 @@
-package engineer.zhangwei.spark.kudu
+package engineer.zhangwei.storage.kudu
 import org.apache.kudu.client.CreateTableOptions
 import org.apache.kudu.spark.kudu._
 import org.apache.spark.{SparkConf, SparkContext}

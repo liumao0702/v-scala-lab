@@ -1,11 +1,6 @@
-package engineer.zhangwei.spark.phoenix
+package engineer.zhangwei.storage.hbase.phoenix
 
-import org.apache.hadoop.conf.Configuration
-import org.apache.spark.SparkContext
-import org.apache.spark.sql.{SQLContext, SaveMode, SparkSession}
-import org.apache.spark.sql._
-import org.apache.phoenix.spark._
-import org.apache.spark.rdd.RDD
+import org.apache.spark.sql.SparkSession
 
 /**
   * Created by ZhangWei on 2017/6/22.

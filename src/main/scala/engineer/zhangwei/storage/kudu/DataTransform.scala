@@ -1,4 +1,4 @@
-package engineer.zhangwei.spark.basic
+package engineer.zhangwei.storage.kudu
 
 import java.text.SimpleDateFormat
 import java.util.{Calendar, UUID}

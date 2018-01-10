@@ -1,4 +1,4 @@
-package engineer.zhangwei.spark.sparkts
+package engineer.zhangwei.spark.model
 
 import com.cloudera.sparkts.models.ARIMA
 import org.apache.spark.mllib.linalg.Vectors

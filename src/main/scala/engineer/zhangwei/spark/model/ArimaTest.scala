@@ -1,14 +1,10 @@
-package engineer.zhangwei.spark.sparkts
+package engineer.zhangwei.spark.model
 
 import java.io.{BufferedInputStream, InputStream}
 import java.text.SimpleDateFormat
 import java.util.{Calendar, Properties}
 
-import com.cloudera.sparkts.models.ARIMA
-import engineer.zhangwei.spark.ecode.EcodeApplyNumPredict.{getClass, predictNum}
-import org.apache.spark.mllib.linalg.Vectors
 import org.apache.spark.sql.SparkSession
-import org.apache.spark.sql.functions.col
 
 /**
   * Created by ZhangWei on 2017/9/16.

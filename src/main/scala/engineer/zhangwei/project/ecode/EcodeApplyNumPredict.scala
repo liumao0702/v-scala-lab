@@ -1,4 +1,4 @@
-package engineer.zhangwei.spark.ecode
+package engineer.zhangwei.project.ecode
 
 import java.io.{BufferedInputStream, InputStream}
 import java.sql
